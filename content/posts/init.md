@@ -1,35 +1,32 @@
 ---
 title: Init
-author: Edo
-Description: A cool Start
-Summary: stuff to do
+author: The first PdM
+Summary: Un sacco di cose da fare per nessun buon motivo al mondo
 ---
 
-# come funziona?
+Doveva essere un post di intro, finisce che sarà una **FAQ**
 
-un blog collaborativo.
+## Perché?
+E che ne so io! Mi pareva un'idea carina
 
-### Aggiungere un post?
+## Chi ti paga?
+Nessuno. Donazioni accettate ma non saprei dove. 
 
-scrivi in markdown, push su `post/2021/02/a-new-awesome-post`. 
+## Quanto costa?
+Da vero pdm, il meno possibile
 
-Pull request.
+## E se volessi contribuire?
+Leggiti e annoiati a [Come Funziona](/how)
 
-Si mergia su master.
+Tra l'altro così scopri anche come funziona veramente la piattaforma.
 
-Finisce su `ilprogrammatoredimerda.com`
+## Ma se posto articoli divento ricco?
+No.
 
+## Magari qualche euro?
+No.
 
-### Modificare il sito?
+## E perché dovrei farlo?
+PER LA GLORIA!
 
-fai le tue cose, lo testi.
-
-push su `feature/2021/02/a-new-awesome-feature`
-
-Pull request.
-
-Viene validata.
-
-Mergiata su master.
-
-Va live su `ilprogrammatoredimerda.com`
+E perché poi verrai condiviso su Facebook. Forse. 
