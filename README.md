@@ -1,10 +1,11 @@
 # Il Programmatore di merda
 
-![pdm](/img/pdm.png)
+![pdm](static/img/pdm.png)
 
 > Blog collaborativo di programmatori scarsi
 > 
-> [Link Al Repository](https://github.com/edavini/pdm)
+> Live @ [IlProgrammatoreDiMerda.com](http://ilprogrammatoredimerda.com)
+
 
 ## Disclaimer
 
@@ -16,13 +17,11 @@ Un blog collaborativo dedicato ai programmatori (italiani) in cui tutti possono 
 
 ### Un blog collaborativo?
 
-In pratica ognuno può **postare nuovi articoli**, **proporre modifiche** ad articoli pre-esistenti e, dato che siamo programmatori, anche **modificare il tema** e/o la **struttura** del sito/blog.
+In pratica ognuno può postare nuovi articoli, proporre modifiche ad articoli pre-esistenti e, dato che siamo programmatori, anche modificare il tema e/o la struttura del sito/blog.
 
 ## Come funziona?
 
-Il blog è realizzato con [Hugo](https://gohugo.io/).
-
-Attualmente il Blog è hostato su un hosting condiviso. In caso il progetto prendesse bene piede, verrà spostato su AWS S3. 
+Il blog è realizzato con Hugo.
 
 Per poterlo eseguire in locale basta:
 1. [installare hugo sul proprio computer](https://gohugo.io/getting-started/installing).
