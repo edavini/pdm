@@ -6,6 +6,6 @@ img.how-logo {
 }
 
 .logo a {
-    font-size: 20px;
+    font-size: min(7vw, 30px);
     font-weight: 700;
 }
