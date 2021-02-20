@@ -1,6 +1,6 @@
 # Il Programmatore di merda
 
-![pdm](/img/pdm.png)
+![" class=how-logo alt="](/img/pdm.png)
 
 > Blog collaborativo di programmatori scarsi
 > 

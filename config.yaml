@@ -7,6 +7,8 @@ params:
   defaultTheme: "auto"
   hideSummary: false
   ShowReadingTime: true
+  label:
+    icon: /img/pdm.png
 
 
 menu:
