@@ -1,0 +1,22 @@
+baseURL: "https://ilprogrammatoredimerda.com/"
+languageCode: "it-it"
+title: "Il Programmatore di Merda"
+theme: "PaperMod"
+
+params:
+  defaultTheme: "auto"
+  hideSummary: false
+  ShowReadingTime: true
+
+
+menu:
+    main:
+        - identifier: posts
+          name: posts
+          url: /
+          weight: 10
+        - identifier: come-funziona
+          name: come funziona
+          url: /how/
+          weight: 20
+          
