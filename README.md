@@ -4,7 +4,7 @@
 
 > Blog collaborativo di programmatori scarsi
 > 
-> Live @ [IlProgrammatoreDiMerda.com](http://ilprogrammatoredimerda.com)
+> Live @ [IlProgrammatoreDiMerda.com](https://ilprogrammatoredimerda.com)
 
 
 ## Disclaimer
